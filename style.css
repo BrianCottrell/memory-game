@@ -1,0 +1,33 @@
+/*Memory Game Stylesheet*/
+body{
+	background-color: #999999;
+}
+div{
+	float: left;
+}
+p{
+	width: 100%; 
+	font-family: arial; 
+	font-size: 12pt; 
+	color: #222;
+}
+h1{
+	font-family: arial;
+	color: #222;
+}
+.title{
+	float: left;
+	width: 45%;
+	margin-left: 30%;
+}
+.outerdiv{
+	width: 45%;
+	margin-left: 30%;
+	background-color: #003333;
+	text-align: center;
+}
+.box{
+	background-color: #000044;
+}
+.clearboth{
+	clear: both;
