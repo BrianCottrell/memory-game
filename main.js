@@ -1,4 +1,6 @@
-/*Memory Game*/
+/* Memory Game            */
+/* by Brian Cottrell      */
+/* 10-07-2014             */
 
 /*VARIABLES*/
 var rows = 10;						//Sets number of rows on game board
