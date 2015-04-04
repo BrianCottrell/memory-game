@@ -103,6 +103,7 @@ function startGame(){
 	for(var i = 0; i < board.length; i++){
 		board[i].style.backgroundColor = '#000044';
 	}
+	document.getElementsByTagName('h1')[1].innerHTML = misses;
 	gameStarted = true;
 }
 /*PROGRAM*/
